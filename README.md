@@ -7,57 +7,58 @@
 </h1>
 
 <h3 align="center"> 
-	 STATUS: Concluded
+	 STATUS: Concluído
 </h3>
 
 <p align="center">
- <a href="#-sobre-o-projeto">About the project</a> •
- <a href="#-tecnologias">Tecnologies</a> • 
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-Como-executar-o-projeto">Como executar o projeto</a> • 
 </p>
 
 
-## 💻 About the project
+## 💻 Sobre o projeto
 
-PlayList is a project that uses the Deezer Api to list the most played songs at the moment. The songs are displayed on cards that are arranged on the page containing the album cover, title, singer, durations, button to access the full song on Deezer, play/pause button to listen to the preview of the song and button to add/remove the song in the favorite song list. In the Header of the Home page, there is a search field input that displays the result related to the searched text.
+
+PlayList é um projeto que utiliza a Deezer Api para listar as músicas mais tocadas no momento. As músicas são exibidas em cartões dispostos na página contendo a capa do álbum, título, cantor, durações, botão para acessar a música completa no Deezer, botão play/pause para ouvir a prévia da música e botão para adicionar/remover a música na lista de músicas favoritas. No cabeçalho da página inicial, há uma entrada de campo de pesquisa que exibe o resultado relacionado ao texto pesquisado.
 
 ---
 
 
-## 🛠 technologies
+## 🛠 tecnologias
 
-The following tools were used in building the project:
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
 #### **Website**  ReactJs https://reactjs.org/
 
 -   **[Router](https://github.com/PLATEIRA/PlayList/tree/master/src/Pages/routes)**
--   **[Api](https://github.com/PLATEIRA/PlayList/blob/master/src/Service/Api.js)**
--   **[Axios]()**
+-   **[Axios](https://github.com/PLATEIRA/PlayList/blob/master/src/Service/Api.js)**
 -   **[Redux](https://github.com/PLATEIRA/PlayList/tree/master/src/redux)**
 -   **[Styled Components](https://github.com/PLATEIRA/PlayList/blob/master/src/globalStyle.js)**
 -   **[Hooks]()**
 
 
 
-## 🚀 How to run the project
+## 🚀 Como executar o projeto
 
-Before starting, you will need to have installed on your machine the [Git](https://git-scm.com). <br>
-Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+Antes de começar, você precisará ter instalado em sua máquina o [Git](https://git-scm.com). <br>
+Além disso, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-Due to Deezer rules it is necessary to use the extension Allow CORS: Access-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related) to use the API and be able to request the data that will be used during the application.
+Devido às regras do Deezer é necessário usar a extensão Allow CORS: Access-Control-Allow-Origin (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related) para utilizar a API e poder solicitar os dados que serão utilizados durante a aplicação.
 
-### Install the dependencies
+### Instale as dependências
 $ npm install
 
 
-### Run the application in development mode
+### Execute no modo de desenvolvimento
 $ npm start
 
 
-### In the project directory, you can run:
+### No diretório do projeto, você pode executar:
 
-<p> Runs the app in the development mode.
+<p> Rode o app no modo desenvolvedor.
 </br>
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Abra (http://localhost:3000) para vizualizar no navegador.
 </p>
 
 
