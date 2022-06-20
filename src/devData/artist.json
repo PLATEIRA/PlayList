@@ -1,0 +1,151 @@
+{
+    
+    "data": [
+      {
+        "id": 61474832,
+        "name": "Os Barões Da Pisadinha",
+        "link": "https://www.deezer.com/artist/61474832",
+        "picture": "https://api.deezer.com/artist/61474832/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/e8f0450f69e4f0b0974f98e736434ce9/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/e8f0450f69e4f0b0974f98e736434ce9/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/e8f0450f69e4f0b0974f98e736434ce9/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/e8f0450f69e4f0b0974f98e736434ce9/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/61474832/top?limit=50",
+        "position": 1,
+        "type": "artist"
+      },
+      {
+        "id": 135512622,
+        "name": "João Gomes",
+        "link": "https://www.deezer.com/artist/135512622",
+        "picture": "https://api.deezer.com/artist/135512622/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/65e1fbf38b84a7d0380b754452886aa8/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/65e1fbf38b84a7d0380b754452886aa8/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/65e1fbf38b84a7d0380b754452886aa8/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/65e1fbf38b84a7d0380b754452886aa8/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/135512622/top?limit=50",
+        "position": 2,
+        "type": "artist"
+      },
+      {
+        "id": 1541592,
+        "name": "Gusttavo Lima",
+        "link": "https://www.deezer.com/artist/1541592",
+        "picture": "https://api.deezer.com/artist/1541592/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/cac3ec4786f8be6dedf24233149db49d/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/cac3ec4786f8be6dedf24233149db49d/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/cac3ec4786f8be6dedf24233149db49d/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/cac3ec4786f8be6dedf24233149db49d/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/1541592/top?limit=50",
+        "position": 3,
+        "type": "artist"
+      },
+      {
+        "id": 84292982,
+        "name": "Tarcísio do Acordeon",
+        "link": "https://www.deezer.com/artist/84292982",
+        "picture": "https://api.deezer.com/artist/84292982/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/a85fa5f2a8817a410daa758e3a7f32ec/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/a85fa5f2a8817a410daa758e3a7f32ec/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/a85fa5f2a8817a410daa758e3a7f32ec/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/a85fa5f2a8817a410daa758e3a7f32ec/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/84292982/top?limit=50",
+        "position": 4,
+        "type": "artist"
+      },
+      {
+        "id": 5895828,
+        "name": "Zé Neto & Cristiano",
+        "link": "https://www.deezer.com/artist/5895828",
+        "picture": "https://api.deezer.com/artist/5895828/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/100bc0927a9f152d2a9d85c169fe1901/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/100bc0927a9f152d2a9d85c169fe1901/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/100bc0927a9f152d2a9d85c169fe1901/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/100bc0927a9f152d2a9d85c169fe1901/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/5895828/top?limit=50",
+        "position": 5,
+        "type": "artist"
+      },
+      {
+        "id": 4611283,
+        "name": "Wesley Safadão",
+        "link": "https://www.deezer.com/artist/4611283",
+        "picture": "https://api.deezer.com/artist/4611283/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/34d79b15be3cbad8d5a0d2593d1d1bb6/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/34d79b15be3cbad8d5a0d2593d1d1bb6/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/34d79b15be3cbad8d5a0d2593d1d1bb6/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/34d79b15be3cbad8d5a0d2593d1d1bb6/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/4611283/top?limit=50",
+        "position": 6,
+        "type": "artist"
+      },
+      {
+        "id": 4876653,
+        "name": "Henrique & Juliano",
+        "link": "https://www.deezer.com/artist/4876653",
+        "picture": "https://api.deezer.com/artist/4876653/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/439d0e35b1c2269ede25e3f30aae8f4c/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/439d0e35b1c2269ede25e3f30aae8f4c/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/439d0e35b1c2269ede25e3f30aae8f4c/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/439d0e35b1c2269ede25e3f30aae8f4c/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/4876653/top?limit=50",
+        "position": 7,
+        "type": "artist"
+      },
+      {
+        "id": 68221232,
+        "name": "Zé Vaqueiro",
+        "link": "https://www.deezer.com/artist/68221232",
+        "picture": "https://api.deezer.com/artist/68221232/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/dff542dbab0db37dbd1e2d0c800d3489/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/dff542dbab0db37dbd1e2d0c800d3489/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/dff542dbab0db37dbd1e2d0c800d3489/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/dff542dbab0db37dbd1e2d0c800d3489/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/68221232/top?limit=50",
+        "position": 8,
+        "type": "artist"
+      },
+      {
+        "id": 7068771,
+        "name": "Marília Mendonça",
+        "link": "https://www.deezer.com/artist/7068771",
+        "picture": "https://api.deezer.com/artist/7068771/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/0e2f0b185fa2eef93a490f40d13d269f/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/0e2f0b185fa2eef93a490f40d13d269f/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/0e2f0b185fa2eef93a490f40d13d269f/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/0e2f0b185fa2eef93a490f40d13d269f/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/7068771/top?limit=50",
+        "position": 9,
+        "type": "artist"
+      },
+      {
+        "id": 3881631,
+        "name": "Jorge & Mateus",
+        "link": "https://www.deezer.com/artist/3881631",
+        "picture": "https://api.deezer.com/artist/3881631/image",
+        "picture_small": "https://e-cdns-images.dzcdn.net/images/artist/18b811f5b9bac7241958b29682cae546/56x56-000000-80-0-0.jpg",
+        "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/18b811f5b9bac7241958b29682cae546/250x250-000000-80-0-0.jpg",
+        "picture_big": "https://e-cdns-images.dzcdn.net/images/artist/18b811f5b9bac7241958b29682cae546/500x500-000000-80-0-0.jpg",
+        "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/18b811f5b9bac7241958b29682cae546/1000x1000-000000-80-0-0.jpg",
+        "radio": true,
+        "tracklist": "https://api.deezer.com/artist/3881631/top?limit=50",
+        "position": 10,
+        "type": "artist"
+      }
+    ],
+    "total": 10
+  }
+
+
+
+
+   
